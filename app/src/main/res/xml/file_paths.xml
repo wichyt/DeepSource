@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Este es el bloque de la carpeta temporal donde se guardan las fotos de la cámara -->
+<paths>
+    <cache-path
+        name="fotos"
+        path="." />
+</paths>
